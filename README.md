@@ -1,2 +1,2 @@
-# Ola-Mundo
- First repository
+# Hello, World
+ First repository created in a live class
